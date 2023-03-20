@@ -1,0 +1,9 @@
+{
+  "name": "Key of Opportunity",
+  "description": "",
+  "collision": true,
+  "map": "map1.json",
+  "mapX": 8,
+  "mapY": 8,
+  "images": ["/item/key_01d.png"]
+}

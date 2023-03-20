@@ -1,0 +1,9 @@
+{
+  "name": "Treasure Chest of Opportunity",
+  "description": "",
+  "collision": true,
+  "map": "map1.json",
+  "mapX": 20,
+  "mapY": 15,
+  "images": [135, 136]
+}
